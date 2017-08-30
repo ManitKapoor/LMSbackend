@@ -1,4 +1,4 @@
-ZOHOLMSBackend
+LMSBackend
 
 A simple Library Management System with 3 roles of Users:
 
